@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyễn Khắc Anh Tài
-- 🌱 I’m currently learning Computer Science at Tôn Đức Thắng University
+- 🌱 I’m currently learning Computer Science at Ton Duc Thang University
 - 📫 Reach me at my email address: nguyenkhacanhtai.1412@gmail.com
 
 <!---
